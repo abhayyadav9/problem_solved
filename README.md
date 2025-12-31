@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhayyadav9/problem_solved/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/abhayyadav9/problem_solved/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +42,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/abhayyadav9/problem_solved/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhayyadav9/problem_solved/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhayyadav9/problem_solved/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/abhayyadav9/problem_solved/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
