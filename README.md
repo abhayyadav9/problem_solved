@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/abhayyadav9/problem_solved/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
