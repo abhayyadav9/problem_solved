@@ -21,16 +21,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayyadav9/problem_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3692-majority-frequency-characters](https://github.com/abhayyadav9/problem_solved/tree/master/3692-majority-frequency-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayyadav9/problem_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [3692-majority-frequency-characters](https://github.com/abhayyadav9/problem_solved/tree/master/3692-majority-frequency-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayyadav9/problem_solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 ## Array
 |  |
