@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayyadav9/problem_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/abhayyadav9/problem_solved/tree/master/0076-minimum-window-substring) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [3692-majority-frequency-characters](https://github.com/abhayyadav9/problem_solved/tree/master/3692-majority-frequency-characters) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0076-minimum-window-substring](https://github.com/abhayyadav9/problem_solved/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 ## Prefix Sum
 |  |
 | ------- |
