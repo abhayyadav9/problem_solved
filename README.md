@@ -96,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
