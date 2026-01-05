@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/abhayyadav9/problem_solved/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
