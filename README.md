@@ -104,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0100-same-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,8 +123,10 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0100-same-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Stack
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
