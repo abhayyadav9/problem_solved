@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhayyadav9/problem_solved/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/abhayyadav9/problem_solved/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/abhayyadav9/problem_solved/tree/master/0231-power-of-two) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhayyadav9/problem_solved/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/abhayyadav9/problem_solved/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhayyadav9/problem_solved/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhayyadav9/problem_solved/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
