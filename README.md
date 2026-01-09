@@ -139,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/abhayyadav9/problem_solved/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhayyadav9/problem_solved/tree/master/0146-lru-cache) |
+| [0232-implement-queue-using-stacks](https://github.com/abhayyadav9/problem_solved/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhayyadav9/problem_solved/tree/master/0231-power-of-two) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/abhayyadav9/problem_solved/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
