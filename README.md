@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/abhayyadav9/problem_solved/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/abhayyadav9/problem_solved/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/abhayyadav9/problem_solved/tree/master/0146-lru-cache) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 | [3692-majority-frequency-characters](https://github.com/abhayyadav9/problem_solved/tree/master/3692-majority-frequency-characters) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayyadav9/problem_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/abhayyadav9/problem_solved/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/abhayyadav9/problem_solved/tree/master/0179-largest-number) |
 | [3692-majority-frequency-characters](https://github.com/abhayyadav9/problem_solved/tree/master/3692-majority-frequency-characters) |
 ## Sliding Window
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/abhayyadav9/problem_solved/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/abhayyadav9/problem_solved/tree/master/0179-largest-number) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/abhayyadav9/problem_solved/tree/master/0233-number-of-digit-one) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
@@ -160,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/abhayyadav9/problem_solved/tree/master/0232-implement-queue-using-stacks) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
