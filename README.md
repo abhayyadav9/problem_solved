@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/abhayyadav9/problem_solved/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/abhayyadav9/problem_solved/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/abhayyadav9/problem_solved/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
