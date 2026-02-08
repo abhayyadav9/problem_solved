@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0069-sqrtx](https://github.com/abhayyadav9/problem_solved/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/abhayyadav9/problem_solved/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0101-symmetric-tree](https://github.com/abhayyadav9/problem_solved/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhayyadav9/problem_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/abhayyadav9/problem_solved/tree/master/0231-power-of-two) |
 ## Queue
 |  |
