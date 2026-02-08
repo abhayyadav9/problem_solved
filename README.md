@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/abhayyadav9/problem_solved/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/abhayyadav9/problem_solved/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/abhayyadav9/problem_solved/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhayyadav9/problem_solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/abhayyadav9/problem_solved/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/abhayyadav9/problem_solved/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
 | ------- |
