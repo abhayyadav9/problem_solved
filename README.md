@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhayyadav9/problem_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/abhayyadav9/problem_solved/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/abhayyadav9/problem_solved/tree/master/0179-largest-number) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/abhayyadav9/problem_solved/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/abhayyadav9/problem_solved/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
 | ------- |
