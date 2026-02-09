@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhayyadav9/problem_solved/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/abhayyadav9/problem_solved/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/abhayyadav9/problem_solved/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 ## Array
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0179-largest-number](https://github.com/abhayyadav9/problem_solved/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/abhayyadav9/problem_solved/tree/master/0713-subarray-product-less-than-k) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0162-find-peak-element](https://github.com/abhayyadav9/problem_solved/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
+| [0713-subarray-product-less-than-k](https://github.com/abhayyadav9/problem_solved/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/abhayyadav9/problem_solved/tree/master/0713-subarray-product-less-than-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
