@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0076-minimum-window-substring](https://github.com/abhayyadav9/problem_solved/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhayyadav9/problem_solved/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 ## Array
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayyadav9/problem_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/abhayyadav9/problem_solved/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1652-defuse-the-bomb](https://github.com/abhayyadav9/problem_solved/tree/master/1652-defuse-the-bomb) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0222-count-complete-tree-nodes](https://github.com/abhayyadav9/problem_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/abhayyadav9/problem_solved/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/abhayyadav9/problem_solved/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/abhayyadav9/problem_solved/tree/master/0233-number-of-digit-one) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhayyadav9/problem_solved/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2902-count-of-sub-multisets-with-bounded-sum](https://github.com/abhayyadav9/problem_solved/tree/master/2902-count-of-sub-multisets-with-bounded-sum) |
 ## Prefix Sum
@@ -202,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhayyadav9/problem_solved/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
