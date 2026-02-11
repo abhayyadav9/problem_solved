@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0039-combination-sum](https://github.com/abhayyadav9/problem_solved/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/abhayyadav9/problem_solved/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/abhayyadav9/problem_solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abhayyadav9/problem_solved/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhayyadav9/problem_solved/tree/master/0128-longest-consecutive-sequence) |
@@ -217,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhayyadav9/problem_solved/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhayyadav9/problem_solved/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
