@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/abhayyadav9/problem_solved/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/abhayyadav9/problem_solved/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/abhayyadav9/problem_solved/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhayyadav9/problem_solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhayyadav9/problem_solved/tree/master/0128-longest-consecutive-sequence) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhayyadav9/problem_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/abhayyadav9/problem_solved/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/abhayyadav9/problem_solved/tree/master/0139-word-break) |
 | [0233-number-of-digit-one](https://github.com/abhayyadav9/problem_solved/tree/master/0233-number-of-digit-one) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhayyadav9/problem_solved/tree/master/0718-maximum-length-of-repeated-subarray) |
